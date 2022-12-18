@@ -1,6 +1,6 @@
 # #30DayMapChallenge 2022
 
-This repository contains maps that were created during #30DayMapChallenge in November 2022. During this difficult month of maps, I made 30 maps of various themes, given by this year's maps theme in [30DayMapChallenge]("https://30daymapchallenge.com/"). All in all, it was an interesting, challenging, energetic experience of map making and it was incredible. Thanks to all the participants of 2022, who inspired and gave good examples of maps.
+This repository contains maps that were created during #30DayMapChallenge in November 2022. During this difficult month of maps, I made 30 maps of various themes, given by this year's maps theme in [30DayMapChallenge](https://30daymapchallenge.com/). All in all, it was an interesting, challenging, energetic experience of map making and it was incredible. Thanks to all the participants of 2022, who inspired and gave good examples of maps.
 
 ![Collage of all maps in challenge](map_img/all_maps.png)
 
@@ -8,7 +8,7 @@ This repository contains maps that were created during #30DayMapChallenge in Nov
 
 The map shows the dynamics of count urban settlements on the territory of Ukraine from the beginning of the 20th century until now.
 
-The data used for the analysis are the census of Austria-Hungary in 1910 and Russian Empire in 1897 compared with modern data in 2021 [State Statistics Service of Ukraine. Population and migration]('https://www.ukrstat.gov.ua/druk/publicat/kat_u/publnasel_u.htm').
+The data used for the analysis are the census of Austria-Hungary in 1910 and Russian Empire in 1897 compared with modern data in 2021 [State Statistics Service of Ukraine. Population and migration](https://www.ukrstat.gov.ua/druk/publicat/kat_u/publnasel_u.htm).
 
 ![Day 1: Point](map_img/day_1.jpg)
 
